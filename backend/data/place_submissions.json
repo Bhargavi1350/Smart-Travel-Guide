@@ -1,0 +1,30 @@
+[
+  {
+    "placeName": "Agra",
+    "city": "Agra",
+    "state": "AndhraPradesh",
+    "category": "Historical",
+    "address": "Agra",
+    "imageUrl": "https://i.pinimg.com/736x/60/a6/e2/60a6e2b0776d1d6735fce5ae7dc9b175.jpg",
+    "description": "hiii",
+    "id": "9aa319e3-6319-4f00-8863-42d77e47d851",
+    "userEmail": "sai@gmail.com",
+    "userRole": "guide",
+    "submittedBy": "sai",
+    "status": "Pending",
+    "verificationStatus": "Approved",
+    "submittedAt": "2026-10-07T04:02:21.797Z",
+    "verificationHistory": [
+      {
+        "status": "Approved",
+        "at": "2026-10-07T04:08:20.947Z",
+        "note": ""
+      },
+      {
+        "status": "Pending",
+        "at": "2026-10-07T04:02:21.797Z",
+        "note": "Place submitted for admin verification."
+      }
+    ]
+  }
+]

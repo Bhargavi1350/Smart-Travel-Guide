@@ -1,0 +1,30 @@
+[
+  {
+    "id": "9aa319e3-6319-4f00-8863-42d77e47d851",
+    "wikidataId": null,
+    "wikiTitle": null,
+    "name": "Unknown place",
+    "city": "Agra",
+    "state": "AndhraPradesh",
+    "country": "India",
+    "type": "Historical",
+    "aliases": [],
+    "description": "hiii",
+    "image": "https://i.pinimg.com/736x/60/a6/e2/60a6e2b0776d1d6735fce5ae7dc9b175.jpg",
+    "images": [
+      "https://i.pinimg.com/736x/60/a6/e2/60a6e2b0776d1d6735fce5ae7dc9b175.jpg"
+    ],
+    "imageSource": "Source catalogue",
+    "imageSourceUrl": null,
+    "imageStatus": "available",
+    "lat": null,
+    "lng": null,
+    "rating": 0,
+    "reviewCount": 0,
+    "highlights": [],
+    "source": "Traveller submission",
+    "sourceUrl": null,
+    "articleName": null,
+    "updatedAt": "2026-10-07T04:08:20.941Z"
+  }
+]
